@@ -59,7 +59,7 @@ After all this, type `npm i node-worker-threads-pool`:
 After all that, type `node Sirr0m.js`:
 [image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/c12e54a2-659a-4fa0-9662-ec9d1ea680c9)
 
-Finally, go to [link](http://localhost:1000) to use and enjoy your localhost!
+Finally, go to [](http://localhost:1000) to use and enjoy your localhost!
 
 [IMPORTANT] You will need to keep Visual Studio Code on, as well as keeping your computer on, to keep the script set, session saver and localhost up and running. Please note that if your Internet connection is lost, all your sessions will disconnect, and I am not responsible for any issues related to that.
 ------------------------------------------------------
