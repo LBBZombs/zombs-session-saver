@@ -47,25 +47,31 @@ Please read the following instructions:
 ------------------------------------------------------
 11. In the terminal, type `npm i express`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/8eec1c25-bac4-45b2-bc80-d705fdc098a9)
-
+------------------------------------------------------
 After this, type `npm i path`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/5f638886-eeaa-4ae1-a3f8-905e539a0217)
 
+------------------------------------------------------
 After that, type `node index.js` to get the localhost client up and running:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/476fb0ff-4de9-493b-bce1-6ee9d39d9f72)
 
+------------------------------------------------------
 Afterwards, type `npm i node-fetch-commonjs`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/5e856e9c-df12-49e6-b2b8-7123fb7aa848)
 
+------------------------------------------------------
 After, type `npm i bytebuffer`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/83ca6845-2cae-4a9d-8b7e-e17b400c3052)
 
+------------------------------------------------------
 Then, type `npm i ws`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/825ee928-8f40-4c1c-a6a1-9a5be3bb7c18)
 
+------------------------------------------------------
 After all this, type `npm i node-worker-threads-pool`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/8f3edadc-f197-47f2-81ca-7df3a789029b)
 
+------------------------------------------------------
 After all that, type `node Sirr0m.js`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/c12e54a2-659a-4fa0-9662-ec9d1ea680c9)
 
