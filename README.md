@@ -26,54 +26,51 @@ Please read the following instructions:
 [IMPORTANT] If your antivirus flags it, disable it and try it again.
 ------------------------------------------------------
 6. Drag the `proj` folder to the `Desktop` folder:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/07e7b980-f8b6-406c-8b93-8492302bae47)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/61a3f49a-e888-4872-8a32-07340eb529e4)
 ------------------------------------------------------
 7. Click on `Open Folder` in `Visual Studio Code`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/5ddf8ac3-9eb2-4a1e-a94a-3d6bd4ae7bbf)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/1c5dc4d7-a1b3-41e0-8a49-86ee04279e68)
 ------------------------------------------------------
 8. Click on the `Desktop` tab:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/17bd08cc-af8b-449d-aa38-74fc00847602)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/2ca5197b-5476-4bca-b899-61b4e8ef92f0)
 ------------------------------------------------------
 9. Select the `proj` folder:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/c23c5c2c-591b-495b-a891-0db3f1627e7a)
-
-[IMPORTANT] If you get this, click on `Trust the authors of all files in the parent folder 'Desktop'`, then click on `Yes, I trust the authors`, which will enable all the features:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/9a52d3c2-ca27-4262-8a55-b3cfb3ea089e)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/961fcd2a-a86e-4cc1-8f5e-773d9ade7d86)
 ------------------------------------------------------
 10. At the top of `Visual Studio Code`, click on `View`, then click on `Terminal`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/69406e66-9f75-48fa-85d5-9917b4ada7de)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/bb6c444f-313b-4681-beb4-dc5679b94c4c)
 
 [IMPORTANT] You are now almost done! MAKE SURE TO TYPE THE FOLLOWING COMMANDS ONE AT A TIME!
 ------------------------------------------------------
 11. In the terminal, type `npm i express`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/8eec1c25-bac4-45b2-bc80-d705fdc098a9)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/eb7027ac-44b3-4a0a-b049-0b7ce25958d7)
 ------------------------------------------------------
 After this, type `npm i path`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/5f638886-eeaa-4ae1-a3f8-905e539a0217)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/b97ab57e-e167-4740-ab90-7d68249b273d)
 
 ------------------------------------------------------
 After that, type `node index.js` to get the localhost client up and running:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/476fb0ff-4de9-493b-bce1-6ee9d39d9f72)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/ab61926a-1c29-4a31-876d-0e709fa5fdf4)
 
 ------------------------------------------------------
 Afterwards, type `npm i node-fetch-commonjs`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/5e856e9c-df12-49e6-b2b8-7123fb7aa848)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/7bd603bb-6c20-40cd-a886-f6198b8b14da)
 
 ------------------------------------------------------
 After, type `npm i bytebuffer`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/83ca6845-2cae-4a9d-8b7e-e17b400c3052)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/9d8b5761-d653-4f66-af44-cd5edd3277a9)
 
 ------------------------------------------------------
 Then, type `npm i ws`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/825ee928-8f40-4c1c-a6a1-9a5be3bb7c18)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/d6543bcc-e8fb-409b-a978-955b53fede0b)
 
 ------------------------------------------------------
 After all this, type `npm i node-worker-threads-pool`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/8f3edadc-f197-47f2-81ca-7df3a789029b)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/28aa1cda-1706-405c-b49f-21ac85ac38de)
 
 ------------------------------------------------------
 After all that, type `node Sirr0m.js`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/c12e54a2-659a-4fa0-9662-ec9d1ea680c9)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/11188363-1331-4b6b-97d2-fc444ef4b986)
 
 ------------------------------------------------------
 12. Finally, go to [http://localhost:1000](http://localhost:1000) to use and enjoy your localhost:
