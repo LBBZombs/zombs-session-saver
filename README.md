@@ -74,7 +74,7 @@ After all that, type `node Sirr0m.js`:
 
 ------------------------------------------------------
 12. Finally, go to [http://localhost:1000](http://localhost:1000) to use and enjoy your localhost:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/e267fdbc-7bbb-4a86-a477-4abed55f58ab)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/4bdeca77-2db0-4487-a08b-ba2b56386f41)
 
 
 You have reached the end of the setup. Enjoy!
