@@ -7,35 +7,40 @@ This script set was designed to remove the inefficiency of the zombs browser cli
 There's quite a pile of instructions you need to follow to get this all working!
 Please read the following instructions:
 ------------------------------------------------------
-1. Install and setup Node.js: [https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi](https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi)
+1. Install Tampermonkey: [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+------------------------------------------------------
+2. Install the required browser script to access sessions: [https://greasyfork.org/en/scripts/470508-session-saver-bomber-x](https://greasyfork.org/en/scripts/470508-session-saver-bomber-x)
+------------------------------------------------------
+3. Install and setup Node.js: [https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi](https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi)
 [!] If your antivirus flags it, disable it and try it again.
 ------------------------------------------------------
-2. Install and setup Visual Studio Code: [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+4. Install and setup Visual Studio Code: [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 ------------------------------------------------------
-3. Download and open this file: [https://www.mediafire.com/file/hbbde17czrqzd5v/Localhost.zip/file](https://www.mediafire.com/file/hbbde17czrqzd5v/Localhost.zip/file)
-[!] If your antivirus flags it, disable it and try it again.
+5. Download and open this file: [https://www.mediafire.com/file/hbbde17czrqzd5v/Localhost.zip/file](https://www.mediafire.com/file/hbbde17czrqzd5v/Localhost.zip/file)
+
+[IMPORTANT] If your antivirus flags it, disable it and try it again.
 ------------------------------------------------------
-4. Drag the `proj` folder to the Desktop folder:
+6. Drag the `proj` folder to the Desktop folder:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/07e7b980-f8b6-406c-8b93-8492302bae47)
 ------------------------------------------------------
-5. Click on `Open Folder` in Visual Studio Code:
+7. Click on `Open Folder` in Visual Studio Code:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/5ddf8ac3-9eb2-4a1e-a94a-3d6bd4ae7bbf)
 ------------------------------------------------------
-6. Click on the `Desktop` tab:
+8. Click on the `Desktop` tab:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/17bd08cc-af8b-449d-aa38-74fc00847602)
 ------------------------------------------------------
-7. Select the `proj` folder:
+9. Select the `proj` folder:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/c23c5c2c-591b-495b-a891-0db3f1627e7a)
 
 [IMPORTANT] If you get this, click on "Trust the authors of all files in the parent folder 'Desktop'", then click on "Yes, I trust the authors", which will enable all the features:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/9a52d3c2-ca27-4262-8a55-b3cfb3ea089e)
 ------------------------------------------------------
-8. At the top of Visual Studio Code, click on `View`, then click on `Terminal`:
+10. At the top of Visual Studio Code, click on `View`, then click on `Terminal`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/69406e66-9f75-48fa-85d5-9917b4ada7de)
 
 [IMPORTANT] You are now almost done! MAKE SURE TO TYPE THE FOLLOWING COMMANDS ONE AT A TIME!
 ------------------------------------------------------
-9. In the terminal, type `npm i express`:
+11. In the terminal, type `npm i express`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/8eec1c25-bac4-45b2-bc80-d705fdc098a9)
 
 After this, type `npm i path`:
@@ -59,7 +64,8 @@ After all this, type `npm i node-worker-threads-pool`:
 After all that, type `node Sirr0m.js`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/c12e54a2-659a-4fa0-9662-ec9d1ea680c9)
 
-Finally, go to [http://localhost:1000](http://localhost:1000) to use and enjoy your localhost!
+------------------------------------------------------
+12. Finally, go to [http://localhost:1000](http://localhost:1000) to use and enjoy your localhost!
 
 [IMPORTANT] You will need to keep Visual Studio Code on, as well as keeping your computer on, to keep the script set, session saver and localhost up and running. Please note that if your Internet connection is lost, all your sessions will disconnect, and I am not responsible for any issues related to that.
 ------------------------------------------------------
