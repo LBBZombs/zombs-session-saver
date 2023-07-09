@@ -7,7 +7,7 @@ This script set was designed to remove the inefficiency of the zombs browser cli
 There's quite a pile of instructions you need to follow to get this all working!
 Please read the following instructions:
 ------------------------------------------------------
-1. Install and setup Node.js: ![link](https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi)
+1. Install and setup Node.js: [link](https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi)
 [!] If your antivirus flags it, disable it and try it again.
 ------------------------------------------------------
 2. Install and setup Visual Studio Code: ![link](https://code.visualstudio.com/Download)
