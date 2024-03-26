@@ -1,4 +1,4 @@
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/44b764fe-5784-4907-a15a-c31388105681)# zombs-session-saver
+# zombs-session-saver
 Introducing Session Saver - a script set for the browser game zombs.io
 
 This script set was designed to remove the inefficiency of the zombs browser client, by hosting your players on your local machine, which is many times more efficient than hosting it on a browser.
@@ -17,7 +17,7 @@ Please read the following instructions:
 2. Install and setup `Visual Studio Code`: [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 ------------------------------------------------------
 3. Download and open this file: [https://www.mediafire.com/file/o8pgwpqxcaap33h/ssss.js/file](https://www.mediafire.com/file/o8pgwpqxcaap33h/ssss.js/file)
-
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/44b764fe-5784-4907-a15a-c31388105681)
 [IMPORTANT] If your antivirus flags it, disable it and try it again.
 ------------------------------------------------------
 4. Click on `Open File` in `Visual Studio Code`:
