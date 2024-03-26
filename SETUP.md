@@ -34,7 +34,7 @@ Please read the following instructions:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/f741768c-756a-476a-9223-a53dd43487e2)
 ------------------------------------------------------
 7. Type `node ssss.js`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/11188363-1331-4b6b-97d2-fc444ef4b986)
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/b406f26f-1f68-4d7b-b183-fc286e1ac6a0)
 
 
 You have reached the end of the setup. Enjoy!
