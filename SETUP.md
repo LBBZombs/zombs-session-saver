@@ -5,6 +5,7 @@ This script set was designed to remove the inefficiency of the zombs browser cli
 
 [!] ATTENTION [!]
 There's quite a pile of instructions you need to follow to get this all working!
+You need to have the zombs.io script 2x24 installed to use the session saver. To install it, join TERMINAL: [https://discord.gg/fatUvvCaeH](https://discord.gg/fatUvvCaeH)
 -
 
 [IMPORTANT] You will need to keep Visual Studio Code on, as well as keeping your computer on, to keep the script set, session saver and localhost up and running. Please note that if your Internet connection is lost, all your sessions will disconnect, and I am not responsible for any issues related to that.
