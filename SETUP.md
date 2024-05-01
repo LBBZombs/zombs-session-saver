@@ -27,14 +27,16 @@ Please read the following instructions:
 5. At the top of `Visual Studio Code`, click on `View`, then click on `Terminal`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/bb6c444f-313b-4681-beb4-dc5679b94c4c)
 
-[IMPORTANT] You are now almost done! MAKE SURE TO TYPE THE FOLLOWING COMMANDS ONE AT A TIME!
+[IMPORTANT] You are now almost done!
 ------------------------------------------------------
 6. In the terminal, type `npm i ws bytebuffer node-fetch-commonjs`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/f741768c-756a-476a-9223-a53dd43487e2)
 ------------------------------------------------------
-7. Type `node ssss.js`:
-![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/b406f26f-1f68-4d7b-b183-fc286e1ac6a0)
-
+7. At the top of `Visual Studio Code`, click on `Run`, then click on `Start Debugging`:
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/10401b81-8a62-4dbd-86a9-1dc8932e615c)
+------------------------------------------------------
+8. Click on `Node.js`:
+![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/3be9bd11-b7e0-4b55-9231-4b00adc50c4b)
 
 You have reached the end of the setup. Enjoy!
 ------------------------------------------------------
